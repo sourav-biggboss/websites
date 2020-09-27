@@ -1,0 +1,2 @@
+# websites
+Its contents websites or web pages (PHP) made my me, have content .Inc and my more thinks . In here I make live changes and do lots of experimental thinks which I have learnt . Basically I use lots of PHP , with knowledge of HTML ,CSS . All type of PHP file is here download it and use it . Here you can get all type of web source code (PHP) like - hello world index page /index.php and many more
