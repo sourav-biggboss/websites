@@ -17,7 +17,8 @@ Its contents websites , web pages (PHP) made my me, have content .Inc and my mor
 Just download one folder and move on your local host simply and for more information open readme.me from that particular directory.
 
 # How to analyse, check out my repository and use it 
-+)First saw index in above, then choose one of the following project you like , in right side you see the folder name were the project is located . At last Just Go that folder , and the index page of the of every folder is index.php.
++ First saw index in above, then choose one of the following project you like , in right side you see the folder name were the project is located . At last Just Go that folder , and the index page of the of every folder is index.php.
+
 2)In index you see left side - "description of the project" and (after on) in right side you see "it's location".
 3)In one folder you get one type of project, websites (content all of PHP files.) or one webpage . Now just download all the files from that folder and host it
 Every folder containing different type of project.
