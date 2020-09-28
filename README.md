@@ -10,7 +10,7 @@ Its contents websites , web pages (PHP) made my me, have content .Inc and my mor
 # What type of programming language basically use
 1) PHP (mainly lots of 'PHP Hypertext preprocessor')
 2) HTML (Hyper Text Markup Language)
-3) CSS (Cascading Style Sheets)
+) CSS (Cascading Style Sheets)
  Very some times - shell Linux command.
 
 # How to use it
