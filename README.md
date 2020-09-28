@@ -18,13 +18,12 @@ Just download one folder and move on your local host simply and for more informa
 
 # How to analyse, check out my repository and use it 
 + First saw index in above, then choose one of the following project you like , in right side you see the folder name were the project is located . At last Just Go that folder , and the index page of the of every folder is index.php.
-
-2)In index you see left side - "description of the project" and (after on) in right side you see "it's location".
-3)In one folder you get one type of project, websites (content all of PHP files.) or one webpage . Now just download all the files from that folder and host it
++ In index you see left side - "description of the project" and (after on) in right side you see "it's location".
++ In one folder you get one type of project, websites (content all of PHP files.) or one webpage . Now just download all the files from that folder and host it
 Every folder containing different type of project.
-4)Different folder containt different project ,all folder are not same . Which mean all folder contains different file , pattern, pages (PHP), results.
-5)Some folder have its own readme.txt because of its critical coding (PHP). So please checkout readme.txt in all folders for more information.
-6)All folders have different results because of there different project theme.
++ Different folder containt different project ,all folder are not same . Which mean all folder contains different file , pattern, pages (PHP), results.
++ Some folder have its own readme.txt because of its critical coding (PHP). So please checkout readme.txt in all folders for more information.
++ All folders have different results because of there different project theme.
 
 <?php
  echo "I like PHP as oxygen ;-)";
