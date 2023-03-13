@@ -5,7 +5,7 @@ if ($_SERVER['HTTP_HOST'] == 'localhost') {
   $password = "";
   $dbName = "fastag";
 
-  // test payment getway
+  // test payment getwayfdsf
   $keyId = 'rzp_test_2yfhfyvVNb9FtQ';
   $keySecret = 'U0UkmtXiMlKDNdKfpGESvisD';
   $displayCurrency = 'INR';
