@@ -1,0 +1,8 @@
+.card-active-status a>div {
+  border: 6px solid #000;
+}
+
+#stage_form .card-active-stage {
+  color: #fff !important;
+  background-color: #009688 !important;
+}

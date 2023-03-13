@@ -1,0 +1,28 @@
+<?php
+// $host = "localhost";
+// $userName = "root";
+// $password = "";
+// $dbName = "amitk173_licence";
+
+ $host = "localhost";
+ $userName = "amitk173_licence";
+ $password = "freeDOM@091#";
+ $dbName = "amitk173_licence";
+
+// Create database connection
+$conn = new mysqli($host, $userName, $password, $dbName);
+if ($conn->connect_error) {
+die("Connection failed: " . $conn->connect_error);
+}
+
+$keyId = 'rzp_test_2yfhfyvVNb9FtQ';
+$keySecret = 'U0UkmtXiMlKDNdKfpGESvisD';
+$displayCurrency = 'INR';
+
+// $keyId = 'rzp_live_SSgRbWWvRGZp1F';
+// $keySecret = 'vGeujgkQGImndqfwBnZHTRkZ';
+// $displayCurrency = 'INR';
+
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+?>

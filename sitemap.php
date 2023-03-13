@@ -1,0 +1,66 @@
+<?php header('Content-type: application/xml'); ?>
+
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://tolltaxes.com/</loc>
+  <lastmod>2021-06-09T09:23:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://tolltaxes.com/fastag-recharge.php</loc>
+  <lastmod>2021-06-09T09:23:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolltaxes.com/enquiry.php</loc>
+  <lastmod>2021-06-09T09:23:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolltaxes.com/faqs.php</loc>
+  <lastmod>2021-06-09T09:23:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolltaxes.com/blog-post/</loc>
+  <lastmod>2021-06-09T09:23:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolltaxes.com/complaint-form.php</loc>
+  <lastmod>2021-06-09T09:23:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolltaxes.com/complaint-track-form.php</loc>
+  <lastmod>2021-06-09T09:23:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolltaxes.com/terms-and-condition.php</loc>
+  <lastmod>2021-06-09T09:23:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolltaxes.com/disclaimer.php</loc>
+  <lastmod>2021-06-09T09:23:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolltaxes.com/privacy-and-policy.php</loc>
+  <lastmod>2021-06-09T09:23:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tolltaxes.com/contact.php</loc>
+  <lastmod>2021-06-09T09:23:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<?php include_once 'admin/auto-blog-sitemap.php';?>
+
+</urlset>

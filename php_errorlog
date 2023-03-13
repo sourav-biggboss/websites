@@ -1,0 +1,357 @@
+[26-Nov-2020 00:52:54 CST6CDT] PHP Warning:  require(checkout/automatic.php): failed to open stream: No such file or directory in /home/amitk173/public_html/tolltaxes.com/submit.php on line 155
+[26-Nov-2020 00:52:54 CST6CDT] PHP Fatal error:  require(): Failed opening required 'checkout/automatic.php' (include_path='.:/usr/local/php73/pear') in /home/amitk173/public_html/tolltaxes.com/submit.php on line 155
+[26-Nov-2020 00:53:55 CST6CDT] PHP Warning:  include_once(./editable/submit-form.php): failed to open stream: No such file or directory in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 1
+[26-Nov-2020 00:53:55 CST6CDT] PHP Warning:  include_once(): Failed opening './editable/submit-form.php' for inclusion (include_path='.:/usr/local/php73/pear') in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 1
+[26-Nov-2020 00:53:55 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 119
+[26-Nov-2020 00:53:55 CST6CDT] PHP Notice:  Undefined index: panel_form_id_2 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 129
+[26-Nov-2020 00:54:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[26-Nov-2020 00:55:03 CST6CDT] PHP Warning:  include_once(./editable/submit-form.php): failed to open stream: No such file or directory in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 1
+[26-Nov-2020 00:55:03 CST6CDT] PHP Warning:  include_once(): Failed opening './editable/submit-form.php' for inclusion (include_path='.:/usr/local/php73/pear') in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 1
+[26-Nov-2020 00:55:03 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 119
+[26-Nov-2020 00:55:03 CST6CDT] PHP Notice:  Undefined index: panel_form_id_2 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 129
+[26-Nov-2020 00:56:40 CST6CDT] PHP Warning:  include_once(./editable/submit-form.php): failed to open stream: No such file or directory in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 1
+[26-Nov-2020 00:56:40 CST6CDT] PHP Warning:  include_once(): Failed opening './editable/submit-form.php' for inclusion (include_path='.:/usr/local/php73/pear') in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 1
+[26-Nov-2020 00:56:40 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 119
+[26-Nov-2020 00:56:40 CST6CDT] PHP Notice:  Undefined index: panel_form_id_2 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 129
+[26-Nov-2020 00:58:05 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 117
+[26-Nov-2020 00:58:05 CST6CDT] PHP Notice:  Undefined index: panel_form_id_2 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 127
+[26-Nov-2020 00:58:23 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 117
+[26-Nov-2020 00:58:23 CST6CDT] PHP Notice:  Undefined index: panel_form_id_2 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 127
+[26-Nov-2020 00:58:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[26-Nov-2020 01:00:24 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 117
+[26-Nov-2020 01:00:24 CST6CDT] PHP Notice:  Undefined index: panel_form_id_2 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 127
+[26-Nov-2020 01:00:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[26-Nov-2020 01:02:05 CST6CDT] PHP Notice:  Undefined index: form_name in /home/amitk173/public_html/tolltaxes.com/success.php on line 302
+[26-Nov-2020 01:47:47 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 117
+[26-Nov-2020 01:47:47 CST6CDT] PHP Notice:  Undefined index: panel_form_id_2 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 127
+[26-Nov-2020 01:48:42 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 117
+[26-Nov-2020 01:48:42 CST6CDT] PHP Notice:  Undefined index: panel_form_id_2 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 127
+[26-Nov-2020 01:50:04 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 117
+[26-Nov-2020 01:50:04 CST6CDT] PHP Notice:  Undefined index: panel_form_id_2 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 127
+[26-Nov-2020 01:50:49 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 117
+[26-Nov-2020 01:50:49 CST6CDT] PHP Notice:  Undefined index: panel_form_id_2 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 127
+[04-Dec-2020 04:03:47 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 117
+[04-Dec-2020 04:03:47 CST6CDT] PHP Notice:  Undefined index: panel_form_id_2 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 127
+[04-Dec-2020 04:09:49 CST6CDT] PHP Notice:  Undefined variable: response in /home/amitk173/public_html/tolltaxes.com/submit.php on line 90
+[04-Dec-2020 04:09:50 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 117
+[04-Dec-2020 04:09:50 CST6CDT] PHP Notice:  Undefined index: panel_form_id_2 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 127
+[04-Dec-2020 04:11:55 CST6CDT] PHP Notice:  Undefined variable: response in /home/amitk173/public_html/tolltaxes.com/submit.php on line 90
+[04-Dec-2020 04:11:56 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 117
+[04-Dec-2020 04:12:49 CST6CDT] PHP Notice:  Undefined index: panel_form_id_1 in /home/amitk173/public_html/tolltaxes.com/checkout/automatic.php on line 117
+[04-Dec-2020 23:07:28 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 92
+[04-Dec-2020 23:51:58 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/amitk173/public_html/tolltaxes.com/submit.php on line 155
+[04-Dec-2020 23:55:12 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/amitk173/public_html/tolltaxes.com/submit.php on line 155
+[04-Dec-2020 23:56:04 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/amitk173/public_html/tolltaxes.com/submit.php on line 155
+[04-Dec-2020 23:56:45 CST6CDT] PHP Parse error:  syntax error, unexpected ',' in /home/amitk173/public_html/tolltaxes.com/submit.php on line 155
+[05-Dec-2020 00:10:26 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/amitk173/public_html/tolltaxes.com/submit.php on line 159
+[05-Dec-2020 00:12:49 CST6CDT] PHP Parse error:  syntax error, unexpected '"<span readonly>"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/amitk173/public_html/tolltaxes.com/submit.php on line 143
+[09-Dec-2020 10:11:07 CST6CDT] PHP Parse error:  syntax error, unexpected '.23' (T_DNUMBER), expecting ')' in /home/amitk173/public_html/tolltaxes.com/test.php on line 4
+[09-Dec-2020 10:29:11 CST6CDT] PHP Parse error:  syntax error, unexpected '.28' (T_DNUMBER), expecting ')' in /home/amitk173/public_html/tolltaxes.com/test.php on line 1
+[09-Dec-2020 10:36:38 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home/amitk173/public_html/tolltaxes.com/test.php on line 1
+[09-Dec-2020 10:36:50 CST6CDT] PHP Parse error:  syntax error, unexpected 'REMOTE_ADDR' (T_STRING), expecting ')' in /home/amitk173/public_html/tolltaxes.com/test.php on line 5
+[12-Dec-2020 01:37:58 CST6CDT] PHP Notice:  Undefined index: pincode in /home/amitk173/public_html/tolltaxes.com/submit.php on line 79
+[12-Dec-2020 01:44:33 CST6CDT] PHP Notice:  Undefined index: pincode in /home/amitk173/public_html/tolltaxes.com/submit.php on line 79
+[12-Dec-2020 01:46:34 CST6CDT] PHP Notice:  Undefined index: pincode in /home/amitk173/public_html/tolltaxes.com/submit.php on line 79
+[12-Dec-2020 01:48:53 CST6CDT] PHP Notice:  Undefined index: pincode in /home/amitk173/public_html/tolltaxes.com/submit.php on line 79
+[12-Dec-2020 02:13:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[14-Dec-2020 05:53:16 CST6CDT] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 13
+[14-Dec-2020 05:53:16 CST6CDT] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 14
+[14-Dec-2020 05:53:16 CST6CDT] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[14-Dec-2020 05:53:35 CST6CDT] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 13
+[14-Dec-2020 05:53:35 CST6CDT] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 14
+[14-Dec-2020 05:53:35 CST6CDT] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[14-Dec-2020 05:56:13 CST6CDT] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 13
+[14-Dec-2020 05:56:13 CST6CDT] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 14
+[14-Dec-2020 05:56:13 CST6CDT] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[14-Dec-2020 05:56:35 CST6CDT] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 13
+[14-Dec-2020 05:56:35 CST6CDT] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 14
+[14-Dec-2020 05:56:35 CST6CDT] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[14-Dec-2020 05:57:10 CST6CDT] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 13
+[14-Dec-2020 05:57:10 CST6CDT] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 14
+[14-Dec-2020 05:57:10 CST6CDT] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[14-Dec-2020 05:59:32 CST6CDT] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 13
+[14-Dec-2020 05:59:32 CST6CDT] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 14
+[14-Dec-2020 05:59:32 CST6CDT] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[14-Dec-2020 06:00:28 CST6CDT] PHP Notice:  Undefined index: message in /home/amitk173/public_html/tolltaxes.com/submit.php on line 232
+[14-Dec-2020 06:04:19 CST6CDT] PHP Notice:  Undefined index: message in /home/amitk173/public_html/tolltaxes.com/submit.php on line 232
+[16-Dec-2020 01:24:39 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/amitk173/public_html/tolltaxes.com/complaint-submit.php on line 54
+[16-Dec-2020 01:25:21 CST6CDT] PHP Notice:  Undefined index: form_created_on in /home/amitk173/public_html/tolltaxes.com/complaint-submit.php on line 57
+[16-Dec-2020 01:25:21 CST6CDT] PHP Notice:  Undefined index: aadhaar_number in /home/amitk173/public_html/tolltaxes.com/complaint-submit.php on line 121
+[16-Dec-2020 01:25:21 CST6CDT] PHP Notice:  Undefined index: form_created_on in /home/amitk173/public_html/tolltaxes.com/complaint-submit.php on line 125
+[16-Dec-2020 01:29:08 CST6CDT] PHP Notice:  Undefined index: aadhaar_number in /home/amitk173/public_html/tolltaxes.com/complaint-submit.php on line 121
+[16-Dec-2020 05:23:36 CST6CDT] PHP Notice:  Undefined index: office_district in /home/amitk173/public_html/tolltaxes.com/submit.php on line 81
+[16-Dec-2020 12:51:40 CST6CDT] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 13
+[16-Dec-2020 12:51:40 CST6CDT] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 14
+[16-Dec-2020 12:51:40 CST6CDT] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[16-Dec-2020 12:56:19 CST6CDT] PHP Notice:  Undefined index: office_district in /home/amitk173/public_html/tolltaxes.com/submit.php on line 81
+[19-Dec-2020 00:16:52 Asia/Kolkata] PHP Notice:  Undefined index: office_district in /home/amitk173/public_html/tolltaxes.com/submit.php on line 84
+[22-Dec-2020 09:31:09 Asia/Kolkata] PHP Notice:  Undefined index: office_district in /home/amitk173/public_html/tolltaxes.com/submit.php on line 84
+[22-Dec-2020 14:43:04 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[22-Dec-2020 14:43:04 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[22-Dec-2020 14:43:04 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[23-Dec-2020 22:18:13 CST6CDT] PHP Notice:  Undefined variable: api in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[23-Dec-2020 22:18:13 CST6CDT] PHP Notice:  Trying to get property 'payment' of non-object in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[23-Dec-2020 22:18:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/amitk173/public_html/tolltaxes.com/verify.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[07-Jan-2021 23:13:05 CST6CDT] PHP Notice:  Undefined offset: 6 in /home/amitk173/public_html/tolltaxes.com/complaint-submit.php on line 78
+[07-Jan-2021 23:14:16 CST6CDT] PHP Notice:  Undefined offset: 6 in /home/amitk173/public_html/tolltaxes.com/complaint-submit.php on line 78
+[08-Jan-2021 10:45:41 Asia/Kolkata] PHP Notice:  Undefined index: docs in /home/amitk173/public_html/tolltaxes.com/complaint-submit-new.php on line 43
+[08-Jan-2021 10:45:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amitk173/public_html/tolltaxes.com/complaint-submit-new.php:43) in /home/amitk173/public_html/tolltaxes.com/complaint-submit-new.php on line 134
+[08-Jan-2021 10:47:58 Asia/Kolkata] PHP Notice:  Undefined index: docs in /home/amitk173/public_html/tolltaxes.com/complaint-submit-new.php on line 111
+[08-Jan-2021 10:47:58 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amitk173/public_html/tolltaxes.com/complaint-submit-new.php:111) in /home/amitk173/public_html/tolltaxes.com/complaint-submit-new.php on line 131
+[05-Feb-2021 19:02:53 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[05-Feb-2021 19:02:53 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[05-Feb-2021 19:02:53 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[15-Feb-2021 16:21:54 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[15-Feb-2021 16:21:54 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[15-Feb-2021 16:21:54 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[17-Feb-2021 22:37:02 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[17-Feb-2021 22:37:02 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[17-Feb-2021 22:37:02 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[20-Feb-2021 09:01:49 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[20-Feb-2021 09:01:49 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[20-Feb-2021 09:01:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[20-Feb-2021 09:03:59 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[20-Feb-2021 09:03:59 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[20-Feb-2021 09:03:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[20-Feb-2021 09:04:12 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[20-Feb-2021 09:04:12 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[20-Feb-2021 09:04:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[20-Feb-2021 09:34:15 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[20-Feb-2021 09:34:15 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[20-Feb-2021 09:34:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[20-Feb-2021 21:08:21 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[20-Feb-2021 21:08:21 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[20-Feb-2021 21:08:21 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[20-Feb-2021 21:08:22 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[20-Feb-2021 21:08:22 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[20-Feb-2021 21:08:22 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[20-Feb-2021 21:08:30 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[20-Feb-2021 21:08:30 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[20-Feb-2021 21:08:30 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[20-Feb-2021 23:02:15 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[20-Feb-2021 23:02:15 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[20-Feb-2021 23:02:15 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[20-Feb-2021 23:02:27 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[20-Feb-2021 23:02:27 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[20-Feb-2021 23:02:27 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[20-Feb-2021 23:02:33 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[20-Feb-2021 23:02:33 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[20-Feb-2021 23:02:33 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[20-Feb-2021 23:02:38 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[20-Feb-2021 23:02:38 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[20-Feb-2021 23:02:38 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[21-Feb-2021 17:34:13 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[21-Feb-2021 17:34:13 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[21-Feb-2021 17:34:13 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[21-Feb-2021 10:35:44 CST6CDT] PHP Notice:  Undefined variable: api in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[21-Feb-2021 10:35:44 CST6CDT] PHP Notice:  Trying to get property 'payment' of non-object in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[21-Feb-2021 10:35:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/amitk173/public_html/tolltaxes.com/verify.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[21-Feb-2021 20:47:16 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[21-Feb-2021 20:47:16 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[21-Feb-2021 20:47:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[21-Feb-2021 20:47:18 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[21-Feb-2021 20:47:18 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[21-Feb-2021 20:47:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[21-Feb-2021 20:47:18 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[21-Feb-2021 20:47:18 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[21-Feb-2021 20:47:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[21-Feb-2021 20:48:11 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[21-Feb-2021 20:48:11 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[21-Feb-2021 20:48:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[22-Feb-2021 00:06:33 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[22-Feb-2021 00:06:33 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[22-Feb-2021 00:06:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[22-Feb-2021 00:06:43 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[22-Feb-2021 00:06:43 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[22-Feb-2021 00:06:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[22-Feb-2021 11:40:42 Asia/Kolkata] PHP Notice:  Undefined index: chassis_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 120
+[22-Feb-2021 11:40:42 Asia/Kolkata] PHP Notice:  Undefined index: pan_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 121
+[22-Feb-2021 01:23:15 CST6CDT] PHP Notice:  Undefined variable: message_box in /home/amitk173/public_html/tolltaxes.com/complaint-track-submit.php on line 181
+[22-Feb-2021 01:23:22 CST6CDT] PHP Notice:  Undefined variable: message_box in /home/amitk173/public_html/tolltaxes.com/complaint-track-submit.php on line 181
+[22-Feb-2021 13:51:09 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[22-Feb-2021 13:51:09 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[22-Feb-2021 13:51:09 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[22-Feb-2021 05:32:30 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[22-Feb-2021 05:32:30 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[22-Feb-2021 05:32:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[22-Feb-2021 07:14:14 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[22-Feb-2021 07:14:14 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[22-Feb-2021 07:14:14 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[22-Feb-2021 20:08:44 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[22-Feb-2021 20:08:44 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[22-Feb-2021 20:08:44 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[22-Feb-2021 20:10:52 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[22-Feb-2021 20:10:52 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[22-Feb-2021 20:10:52 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[22-Feb-2021 20:10:56 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[22-Feb-2021 20:10:56 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[22-Feb-2021 20:10:56 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[22-Feb-2021 22:07:18 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[22-Feb-2021 22:07:18 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[22-Feb-2021 22:07:18 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[22-Feb-2021 22:07:22 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[22-Feb-2021 22:07:22 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[22-Feb-2021 22:07:22 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[22-Feb-2021 22:10:21 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[22-Feb-2021 22:10:21 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[22-Feb-2021 22:10:21 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[22-Feb-2021 22:46:01 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[22-Feb-2021 22:46:01 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[22-Feb-2021 22:46:01 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[22-Feb-2021 19:52:17 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[22-Feb-2021 19:52:17 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[22-Feb-2021 19:52:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[23-Feb-2021 04:55:29 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[23-Feb-2021 04:55:29 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[23-Feb-2021 04:55:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[23-Feb-2021 05:55:29 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[23-Feb-2021 05:55:29 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[23-Feb-2021 05:55:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[23-Feb-2021 05:55:33 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[23-Feb-2021 05:55:33 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[23-Feb-2021 05:55:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[23-Feb-2021 08:02:13 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[23-Feb-2021 08:02:13 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[23-Feb-2021 08:02:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[24-Feb-2021 04:55:08 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[24-Feb-2021 04:55:08 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[24-Feb-2021 04:55:08 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[23-Feb-2021 23:27:12 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[23-Feb-2021 23:27:12 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[23-Feb-2021 23:27:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[23-Feb-2021 23:42:14 CST6CDT] PHP Notice:  Undefined variable: api in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[23-Feb-2021 23:42:14 CST6CDT] PHP Notice:  Trying to get property 'payment' of non-object in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[23-Feb-2021 23:42:14 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/amitk173/public_html/tolltaxes.com/verify.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[23-Feb-2021 23:42:16 CST6CDT] PHP Notice:  Undefined variable: api in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[23-Feb-2021 23:42:16 CST6CDT] PHP Notice:  Trying to get property 'payment' of non-object in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[23-Feb-2021 23:42:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/amitk173/public_html/tolltaxes.com/verify.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[24-Feb-2021 12:05:07 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[24-Feb-2021 12:05:07 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[24-Feb-2021 12:05:07 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[24-Feb-2021 15:43:27 Asia/Kolkata] PHP Notice:  Undefined index: first_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 115
+[24-Feb-2021 15:43:27 Asia/Kolkata] PHP Notice:  Undefined index: last_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 116
+[24-Feb-2021 15:43:27 Asia/Kolkata] PHP Notice:  Undefined index: city in /home/amitk173/public_html/tolltaxes.com/submit.php on line 132
+[24-Feb-2021 15:43:40 Asia/Kolkata] PHP Notice:  Undefined index: first_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 115
+[24-Feb-2021 15:43:40 Asia/Kolkata] PHP Notice:  Undefined index: last_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 116
+[24-Feb-2021 15:43:40 Asia/Kolkata] PHP Notice:  Undefined index: city in /home/amitk173/public_html/tolltaxes.com/submit.php on line 132
+[24-Feb-2021 15:43:45 Asia/Kolkata] PHP Notice:  Undefined index: first_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 115
+[24-Feb-2021 15:43:45 Asia/Kolkata] PHP Notice:  Undefined index: last_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 116
+[24-Feb-2021 15:43:45 Asia/Kolkata] PHP Notice:  Undefined index: city in /home/amitk173/public_html/tolltaxes.com/submit.php on line 132
+[24-Feb-2021 15:44:23 Asia/Kolkata] PHP Notice:  Undefined index: first_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 115
+[24-Feb-2021 15:44:23 Asia/Kolkata] PHP Notice:  Undefined index: last_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 116
+[24-Feb-2021 15:44:23 Asia/Kolkata] PHP Notice:  Undefined index: city in /home/amitk173/public_html/tolltaxes.com/submit.php on line 132
+[24-Feb-2021 15:47:01 Asia/Kolkata] PHP Notice:  Undefined index: last_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 116
+[24-Feb-2021 15:47:01 Asia/Kolkata] PHP Notice:  Undefined index: city in /home/amitk173/public_html/tolltaxes.com/submit.php on line 132
+[24-Feb-2021 05:46:19 CST6CDT] PHP Notice:  Undefined variable: api in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[24-Feb-2021 05:46:19 CST6CDT] PHP Notice:  Trying to get property 'payment' of non-object in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[24-Feb-2021 05:46:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/amitk173/public_html/tolltaxes.com/verify.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/verify.php on line 37
+[24-Feb-2021 08:30:32 CST6CDT] PHP Notice:  Undefined index: razorpay_order_id in /home/amitk173/public_html/tolltaxes.com/verify.php on line 21
+[24-Feb-2021 08:30:32 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/amitk173/public_html/tolltaxes.com/verify.php:21) in /home/amitk173/public_html/tolltaxes.com/verify.php on line 83
+[24-Feb-2021 23:01:08 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[24-Feb-2021 23:01:08 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[24-Feb-2021 23:01:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[25-Feb-2021 16:05:49 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[25-Feb-2021 16:05:49 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[25-Feb-2021 16:05:49 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[25-Feb-2021 17:42:09 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[25-Feb-2021 17:42:09 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[25-Feb-2021 17:42:09 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[25-Feb-2021 20:53:47 Asia/Kolkata] PHP Notice:  Undefined index: applicant_name in /home/amitk173/public_html/tolltaxes.com/submit.php on line 15
+[25-Feb-2021 20:53:47 Asia/Kolkata] PHP Notice:  Undefined index: mobile_number in /home/amitk173/public_html/tolltaxes.com/submit.php on line 16
+[25-Feb-2021 20:53:47 Asia/Kolkata] PHP Notice:  Undefined index: email_id in /home/amitk173/public_html/tolltaxes.com/submit.php on line 17
+[25-Feb-2021 09:27:13 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[25-Feb-2021 09:27:13 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[25-Feb-2021 09:27:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
+[25-Feb-2021 10:59:26 CST6CDT] PHP Notice:  Undefined index: table_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 12
+[25-Feb-2021 10:59:26 CST6CDT] PHP Notice:  Undefined index: form_id in /home/amitk173/public_html/tolltaxes.com/success.php on line 13
+[25-Feb-2021 10:59:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/amitk173/public_html/tolltaxes.com/success.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/amitk173/public_html/tolltaxes.com/success.php on line 16
