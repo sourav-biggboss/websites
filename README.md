@@ -3,6 +3,18 @@ It's my PHP experimental lab.
 # websites
 Its contents websites , web pages (PHP) made my me, have content .Inc and my more thinks . In here I make live changes and do lots of experimental thinks which I have learnt . Basically I use lots of PHP , with knowledge of HTML ,CSS . All type of PHP file is here download it and use it . Here you can get all type of web source code (PHP) like - hello world index page /index.php and many more
 
+git add .
+git fetch origin main
+git commit -m "live production changes"
+git pull origin main
+-- git pull -X theirs
+git checkout main --ours .
+git commit -m "live production changes"
+-- git pull origin main
+git push origin main
+git pull origin main
+git status
+
 # INDEX
 
 1) hello word on "helloworld/index.php" dir
